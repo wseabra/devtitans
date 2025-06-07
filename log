@@ -1,0 +1,27 @@
+commit a848a8839e46b367995fa13547b0bbaec0c9f25f
+Author: Waldomiro Seabra <wjuan.06@gmail.com>
+Date:   Sat Jun 7 13:08:04 2025 -0400
+
+    Comitando todos os arquivos juntos
+
+ dev1.txt       | 2 +-
+ devtitans2.txt | 1 +
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+commit a08f753de59f44a3d3eb56848b794b262a1d8dc5
+Author: Waldomiro Seabra <wjuan.06@gmail.com>
+Date:   Sat Jun 7 13:05:41 2025 -0400
+
+    Alterando o dev1.txt
+
+ dev1.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 7f8576e9ba44c2fb724caea6399f8b10b64e725b
+Author: wseabra <wseabra@localhost.localdomain>
+Date:   Sat Jun 7 13:02:44 2025 -0400
+
+    Meu primeiro commit
+
+ dev1.txt | 1 +
+ 1 file changed, 1 insertion(+)
